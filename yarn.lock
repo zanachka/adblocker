@@ -2406,12 +2406,12 @@ __metadata:
   linkType: hard
 
 "@types/chrome@npm:^0.1.4":
-  version: 0.1.14
-  resolution: "@types/chrome@npm:0.1.14"
+  version: 0.1.17
+  resolution: "@types/chrome@npm:0.1.17"
   dependencies:
     "@types/filesystem": "npm:*"
     "@types/har-format": "npm:*"
-  checksum: 10/262d820d31d183c9e8c98441e41a1143aa4b00051b207df29167f054d41d9e39d680ac7861b05ec8510fa22b93ef42903d6e6e357765b7a1497d1abb679c67d4
+  checksum: 10/27d845ebb38d5e6f677ce948c28e4f999b210a4496b0f8d1c4b9034dd2e3f886c3d10c56e212048bc9fd1134da02f2833af7aebc5928fd1286cdadbe0bdf8278
   languageName: node
   linkType: hard
 
