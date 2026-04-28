@@ -1,3 +1,23 @@
+# v2.14.3 (Tue Apr 28 2026)
+
+#### :bug: Bug Fix
+
+- `@ghostery/adblocker`
+  - fix: `isCaseSensitive` is not reflected in filter id [#5625](https://github.com/ghostery/adblocker/pull/5625) ([@seia-soto](https://github.com/seia-soto))
+
+#### :house: Internal
+
+- `@ghostery/adblocker`
+  - Update local assets [#5624](https://github.com/ghostery/adblocker/pull/5624) (ghostery-adblocker-bot@users.noreply.github.com [@ghostery-adblocker-bot[bot]](https://github.com/ghostery-adblocker-bot[bot]))
+
+#### Authors: 3
+
+- [@ghostery-adblocker-bot[bot]](https://github.com/ghostery-adblocker-bot[bot])
+- Ghostery Adblocker Bot (ghostery-adblocker-bot@users.noreply.github.com)
+- HoJeong Go ([@seia-soto](https://github.com/seia-soto))
+
+---
+
 # v2.14.2 (Mon Apr 27 2026)
 
 #### :bug: Bug Fix
