@@ -1,3 +1,22 @@
+# v2.14.4 (Thu Apr 30 2026)
+
+#### :bug: Bug Fix
+
+- fix: engine size mismatch [#5630](https://github.com/ghostery/adblocker/pull/5630) ([@seia-soto](https://github.com/seia-soto))
+
+#### :house: Internal
+
+- Update local assets [#5629](https://github.com/ghostery/adblocker/pull/5629) (ghostery-adblocker-bot@users.noreply.github.com [@ghostery-adblocker-bot[bot]](https://github.com/ghostery-adblocker-bot[bot]))
+- Update local assets [#5627](https://github.com/ghostery/adblocker/pull/5627) (ghostery-adblocker-bot@users.noreply.github.com [@ghostery-adblocker-bot[bot]](https://github.com/ghostery-adblocker-bot[bot]))
+
+#### Authors: 3
+
+- [@ghostery-adblocker-bot[bot]](https://github.com/ghostery-adblocker-bot[bot])
+- Ghostery Adblocker Bot (ghostery-adblocker-bot@users.noreply.github.com)
+- HoJeong Go ([@seia-soto](https://github.com/seia-soto))
+
+---
+
 # v2.14.3 (Tue Apr 28 2026)
 
 #### :bug: Bug Fix
