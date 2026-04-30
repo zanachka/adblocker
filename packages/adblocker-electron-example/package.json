@@ -1,7 +1,7 @@
 {
   "name": "@ghostery/adblocker-electron-example",
   "private": true,
-  "version": "2.14.3",
+  "version": "2.14.4",
   "description": "Ghostery adblocker Electron wrapper",
   "author": {
     "name": "Ghostery"
@@ -85,7 +85,7 @@
     }
   ],
   "dependencies": {
-    "@ghostery/adblocker-electron": "^2.14.3",
+    "@ghostery/adblocker-electron": "^2.14.4",
     "@types/node": "25.6.0",
     "cross-fetch": "^4.1.0",
     "electron": "41.3.0"
