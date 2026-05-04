@@ -1,3 +1,16 @@
+# v2.15.0 (Mon May 04 2026)
+
+#### :running_woman: Performance
+
+- `@ghostery/adblocker-webextension`, `@ghostery/adblocker`
+  - perf: reuse TextDecoder and TextEncoder [#5634](https://github.com/ghostery/adblocker/pull/5634) ([@seia-soto](https://github.com/seia-soto))
+
+#### Authors: 1
+
+- HoJeong Go ([@seia-soto](https://github.com/seia-soto))
+
+---
+
 # v2.14.5 (Mon May 04 2026)
 
 #### :bug: Bug Fix
