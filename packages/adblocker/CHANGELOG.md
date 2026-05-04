@@ -1,3 +1,18 @@
+# v2.14.5 (Mon May 04 2026)
+
+#### :house: Internal
+
+- Update local assets [#5638](https://github.com/ghostery/adblocker/pull/5638) (ghostery-adblocker-bot@users.noreply.github.com [@ghostery-adblocker-bot[bot]](https://github.com/ghostery-adblocker-bot[bot]))
+- Update local assets [#5637](https://github.com/ghostery/adblocker/pull/5637) (ghostery-adblocker-bot@users.noreply.github.com [@ghostery-adblocker-bot[bot]](https://github.com/ghostery-adblocker-bot[bot]))
+- Update local assets [#5635](https://github.com/ghostery/adblocker/pull/5635) (ghostery-adblocker-bot@users.noreply.github.com [@ghostery-adblocker-bot[bot]](https://github.com/ghostery-adblocker-bot[bot]))
+
+#### Authors: 2
+
+- [@ghostery-adblocker-bot[bot]](https://github.com/ghostery-adblocker-bot[bot])
+- Ghostery Adblocker Bot (ghostery-adblocker-bot@users.noreply.github.com)
+
+---
+
 # v2.14.4 (Thu Apr 30 2026)
 
 #### :bug: Bug Fix
